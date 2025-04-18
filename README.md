@@ -75,3 +75,9 @@ Stock price forecasting is a challenging task due to the volatile and non-linear
    git clone https://github.com/Vinita1527/stock-price-prediction-lstm.git
    cd stock-price-prediction-lstm
 
+## Install required libraries:
+pip install numpy pandas matplotlib yfinance scikit-learn tensorflow
+
+##  Launch the notebook:
+
+jupyter notebook stock_price_prediction.ipynb
