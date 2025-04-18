@@ -72,6 +72,6 @@ Stock price forecasting is a challenging task due to the volatile and non-linear
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/stock-price-prediction-lstm.git
+   git clone https://github.com/Vinita1527/stock-price-prediction-lstm.git
    cd stock-price-prediction-lstm
 
