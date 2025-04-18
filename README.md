@@ -13,7 +13,6 @@ Stock price forecasting is a challenging task due to the volatile and non-linear
 ## 🗂️ Repository Structure
 
 ├── stock_price_prediction.ipynb # Jupyter notebook with complete code and plots 
-
 ├── README.md # Project documentation
 
 
