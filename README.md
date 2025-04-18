@@ -64,7 +64,7 @@ Stock price forecasting is a challenging task due to the volatile and non-linear
 - Captured general trend and direction of price movement
 
 ### 📏 Performance Metric
-- **Root Mean Squared Error (RMSE)**: **~8.18**
+- **Root Mean Squared Error (RMSE)**: **~6.06**
 - This indicates reasonably good accuracy for a univariate model using only closing prices
 
 ---
@@ -93,5 +93,7 @@ jupyter notebook stock_price_prediction.ipynb
 
 ## 🙋‍♀️ Author
 Vinita Mani Isukapudi
+
 B.E. Information Technology – Vasavi College of Engineering
+
 📍 Hyderabad, Telangana
