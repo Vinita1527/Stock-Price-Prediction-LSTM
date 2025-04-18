@@ -13,6 +13,7 @@ Stock price forecasting is a challenging task due to the volatile and non-linear
 ## 🗂️ Repository Structure
 
 ├── stock_price_prediction.ipynb # Jupyter notebook with complete code and plots 
+
 ├── README.md # Project documentation
 
 
@@ -81,3 +82,16 @@ pip install numpy pandas matplotlib yfinance scikit-learn tensorflow
 ##  Launch the notebook:
 
 jupyter notebook stock_price_prediction.ipynb
+
+## 🔮 Future Improvements
+
+- Add more features like Open, High, Low, and Volume for better accuracy.
+- Try using sentiment data from news or tweets.
+- Tune hyperparameters to improve model performance.
+- Test other models like GRU or Transformers.
+- Build a simple web app to show live predictions.
+
+## 🙋‍♀️ Author
+Vinita Mani Isukapudi
+B.E. Information Technology – Vasavi College of Engineering
+📍 Hyderabad, Telangana
